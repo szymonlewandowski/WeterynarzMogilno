@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /
+
+Sitemap: http://weterynarzmogilno.pl/www/mapaWeterynarzMogilno.xml
